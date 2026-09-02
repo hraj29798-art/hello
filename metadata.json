@@ -1,0 +1,6 @@
+{
+  "name": "Couple Chat",
+  "description": "A private, aesthetic partner chat space with passcode lock, mood indicators, daily prompts, and secret sticky notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
